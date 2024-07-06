@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Jean-Guillaume Magré
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jean-Guillaume
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jean-Guillaume
+last_name: Magré
 
 # Status emoji
 status:
