@@ -48,20 +48,14 @@ education:
     institution: University of Oxford
     date_start: 2021-10-01
     date_end: 2026-07-01
-    summary: |
-      Essays in Macroeconomics and Finance. Supervised by [Professor Michael McMahon](https://mcmahonecon.com/).
   - area: MSc in Economics
     institution: London School of Economics and Political Science
     date_start: 2018-09-01
     date_end: 2019-07-01
-    summary: |
-      Distinction
   - area: MSc in Mathematical Engineering (_Diplôme d'ingénieur_)
     institution: Ecole Nationale des Ponts et Chaussées
     date_start: 2015-09-01
     date_end: 2018-07-01
-    summary: |
-      Test
 
 
 work:
@@ -165,4 +159,4 @@ awards:
 ## About Me
 
 Welcome to my website!
-I am a Ph.D. Candidate in Economics at the University of Oxford.
+I am a Ph.D. Candidate in Economics at the University of Oxford, under the supervision of [Professor Michael McMahon](https://mcmahonecon.com/). I am currently interested in topics in Macrofinance, at the intersection of Monetary Economics, Intermediary Asset Pricing, and Market Microstructure.
