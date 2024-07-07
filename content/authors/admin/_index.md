@@ -51,19 +51,7 @@ education:
     summary: |
       Essays in Macroeconomics and Finance. Supervised by [Professor Michael McMahon](https://mcmahonecon.com/).
 
-  - area: MSc in Economics
-    institution: London School of Economics and Political Science
-    date_start: 2018-09-01
-    date_end: 2019-07-01
-    summary: |
-      Distinction
 
-  - area: MSc in Mathematical Engineering (_Diplôme d'ingénieur_)
-    institution: Ecole Nationale des Ponts et Chaussées
-    date_start: 2015-09-01
-    date_end: 2018-07-01
-    summary: |
-      Test
 
 work:
   - position: Director of Cloud Infrastructure
