@@ -48,7 +48,6 @@ education:
     institution: University of Oxford
     date_start: 2021-10-01
     date_end: 2026-07-01
-    url: https://www.ox.ac.uk/admissions/graduate/courses/dphil-economics
   - area: MSc in Economics
     institution: London School of Economics
     date_start: 2018-09-01
@@ -60,28 +59,21 @@ education:
 
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: PhD Intern
+    company_name: Bank of England
+    company_url: https://www.bankofengland.co.uk/
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+    date_start: 2023-09-25
+    date_end: 2023-12-15
+    summary: ''
+  - position: Market Economist
+    company_name: Banque de France
+    company_url: https://www.banque-france.fr/
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2020-01-01
+    date_end: 2021-09-01
+    summary: ''
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
